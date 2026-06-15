@@ -1,0 +1,4 @@
+# pnpm-workspace.yaml
+packages:
+  - "docs" # 文档站点 (基于vitepress搭建)
+  - "extension" # 浏览器扩展 (基于wxt+vue3+ts)
